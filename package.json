@@ -1,0 +1,16 @@
+{
+  "name": "sticky-notes-app",
+  "version": "1.0.0",
+  "description": "A simple sticky notes application built with React.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
